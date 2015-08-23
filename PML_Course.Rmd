@@ -3,6 +3,7 @@ title: "Final Project Analysis - Practical Machine Learning Course"
 author: "Pasquale Grippo"
 date: "18 August 2015"
 output: html_document
+keep_md: true
 ---
 
 #Syllabus
